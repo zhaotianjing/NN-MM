@@ -1,0 +1,2 @@
+* "prepare_1k_data.jl": this file select 5% individuals (i.e., 1055) from Christensenet al.(2021)
+* "calcGRM.jl" and "prepareGRM.R": these two files create genomic relationship matrix from the genotype.

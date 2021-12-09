@@ -7,3 +7,6 @@ Data, scripts and results for NN-LMM paper.
 
 
 *Christensen OF, Börner V, Varona L, Legarra A. Genetic evaluation including intermediate omics features. Genetics. 2021 Oct;219(2):iyab130.*
+
+
+To perform NN-LMM in [JWAS](https://github.com/reworkhow/JWAS.jl/tree/master/src/1.JWAS/src), please see latest examples [here](https://github.com/reworkhow/JWAS.jl/wiki/Neural-Networks). More details can be found in the documentation of JWAS. The scripts here may be invalid due to the updated NN-LMM interface in JWAS.

@@ -6,7 +6,8 @@ Data, scripts and results for NN-LMM paper.
 * **Part3_NNGBLUP_vs_NNBayesC**: performance of NN-LMM with a GBLUP prior (i.e, NN-GBLUP) and NN-LMM with a BayesC prior (i.e., NN-BayesC) were compared, and linear activation functions were applied. (Figure 6 in NN-LMM paper)
 
 
-*Christensen OF, Börner V, Varona L, Legarra A. Genetic evaluation including intermediate omics features. Genetics. 2021 Oct;219(2):iyab130.*
-
-
 To perform NN-LMM in [JWAS](https://github.com/reworkhow/JWAS.jl), please see the documentation of JWAS. The scripts here may be invalid due to the updated NN-LMM interface in JWAS.
+
+
+#### Reference
+*Christensen OF, Börner V, Varona L, Legarra A. Genetic evaluation including intermediate omics features. Genetics. 2021 Oct;219(2):iyab130.*

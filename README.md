@@ -6,7 +6,7 @@ Data, scripts and results for NN-LMM paper.
 * **Part3_NNGBLUP_vs_NNBayesC**: performance of NN-LMM with a GBLUP prior (i.e, NN-GBLUP) and NN-LMM with a BayesC prior (i.e., NN-BayesC) were compared, and linear activation functions were applied. (Figure 6 in NN-LMM paper)
 
 
-To perform NN-LMM in [JWAS](https://github.com/reworkhow/JWAS.jl), please see the documentation of JWAS. The scripts here may be invalid due to the updated NN-LMM interface in JWAS.
+NN-MM is also called "mixed effects neural networks". To perform NN-MM in [JWAS](https://github.com/reworkhow/JWAS.jl), please see [documentation](https://reworkhow.github.io/JWAS.jl/latest/) and latest examples. The scripts here may be invalid due to the updated NN-MM interface in JWAS. 
 
 
 #### Reference
